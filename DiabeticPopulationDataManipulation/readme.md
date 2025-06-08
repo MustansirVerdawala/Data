@@ -14,29 +14,6 @@ A C program designed for analyzing diabetic population data by reading and proce
 
 ---
 
-## 💻 Usage Instructions
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/MustansirVerdawala/Data.git
-    cd Data/DiabeticPopulationDataManipulation
-    ```
-
-2. Compile the program:
-
-    ```bash
-    gcc main.c -o diabetic_analysis
-    ```
-
-3. Run the program, ensuring the CSV data file is in the correct directory or provide the path as needed:
-
-    ```bash
-    ./diabetic_analysis
-    ```
-
----
-
 ## 👥 Collaboration
 
 This project was developed in collaboration with Soham Naithani, Jacky Zhang, and Aronno Das.
